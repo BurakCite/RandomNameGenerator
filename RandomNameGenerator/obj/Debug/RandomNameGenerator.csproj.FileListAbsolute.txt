@@ -1,0 +1,6 @@
+C:\Users\Aeonyphiel\source\repos\RandomNameGenerator\RandomNameGenerator\bin\Debug\RandomNameGenerator.exe.config
+C:\Users\Aeonyphiel\source\repos\RandomNameGenerator\RandomNameGenerator\bin\Debug\RandomNameGenerator.exe
+C:\Users\Aeonyphiel\source\repos\RandomNameGenerator\RandomNameGenerator\bin\Debug\RandomNameGenerator.pdb
+C:\Users\Aeonyphiel\source\repos\RandomNameGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Aeonyphiel\source\repos\RandomNameGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.exe
+C:\Users\Aeonyphiel\source\repos\RandomNameGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.pdb
